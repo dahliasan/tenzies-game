@@ -65,6 +65,7 @@ export default function App() {
             setTenzies(false)
             setDice(allNewDice())
             setTime({start: new Date()})
+            setNumRolls(0)
         }
     }
     
