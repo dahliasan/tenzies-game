@@ -1,4 +1,4 @@
-👀 View the demo [here](https://fooxhd.github.io/tenzies-game/).
+👀 View the demo [here](https://fxhd1.github.io/tenzies-game/).
 
 # Overview
 
@@ -16,7 +16,7 @@ This is a project from the [Frontend Developer Career Path](https://scrimba.com/
 ## Links
 
 - [Solution url on Scrimba](https://scrimba.com/scrim/co3e74e17bfa5a9920fb7b4bd)
-- [Live site demo](https://fooxhd.github.io/tenzies-game/)
+- [Live site demo](https://fxhd1.github.io/tenzies-game/)
 
 # Acknowledgements
 
